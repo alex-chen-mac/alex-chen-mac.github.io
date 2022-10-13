@@ -11,7 +11,7 @@ Date of birth: May 10, 2004
 
 ### About Me
 
-Hi! I'm an aspiring first year computer science undergraduate student interested in delving into the realms of AI and machine learning. Currently, 
+Hi! I'm an aspiring first year computer science undergraduate student interested in delving into the realms of AI and machine learning. 
 
 
 
