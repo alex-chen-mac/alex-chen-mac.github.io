@@ -38,7 +38,7 @@ Hi! I'm an aspiring first year computer science undergraduate student interested
             <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="www.linkedin.com/in/alex-chen1" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="https://www.linkedin.com/in/alex-chen1/" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
         <td>
             <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
