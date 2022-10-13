@@ -3,15 +3,15 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): **Alex Chen**
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [chena157@mcmaster.ca](mailto:chena157@mcmaster.ca)
 
-Date of birth: Write your date of birth here
+Date of birth: May 10, 2004
 
 ### About Me
 
-Write a few sentences describing you the best.
+Hi! I'm an aspiring first year computer science undergraduate student interested in delving into the realms of AI and machine learning. Currently, 
 
 
 
@@ -19,12 +19,15 @@ Write a few sentences describing you the best.
 ### List of hobbies:
 
 * Coding
-  * Elm
+  * (Elm)
   * Haskell
     * Stack
     * ghc
-* Biking
-* Hiking
+  * Python
+  * Java (Apache Netbeans platform)
+  * (A bit of) HTML & CSS 
+* Piano
+* Homebrewing video game consoles
 ```
 
 ### Find me here
@@ -35,7 +38,7 @@ Write a few sentences describing you the best.
             <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="www.linkedin.com/in/alex-chen1" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
         <td>
             <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
@@ -49,15 +52,20 @@ Write a few sentences describing you the best.
 
 [Have a look at my photo gallery](/photo.md)
 
-# Eduction
+# Education
 
-* (1983-Forever) - Student 
+* (2018-2022) - H.S. Student at North Toronto Collegiate Institute
+* (2022-Current) - Undergraduate Computer Science student @ McMaster University 
 
 ## Technical Skills
 
 ### Programming Languages
 
-* Elm
+* Python
+* Java 
+* Haskell
+* HTML
+* CSS
 
 ### My professional experiences
 
